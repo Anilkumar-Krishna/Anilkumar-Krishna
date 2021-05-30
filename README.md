@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Anilkumar
-- 👀 By profession i am a public policy researcher and keenly interested in learning python and machine learning models. I like to try my skills on some of the business problems, and hoping to extend this skills to study policy problems. 
+- 👋 Hi, I’m Anilkumar Munikrishnappa
+- 👀 By profession i am a public policy researcher and keenly interested in learning python and machine learning models. I like to try my skills on some of the well known business problems, and try to extend this skills to study critical policy problems. 
 - 💞️ I’m open to collaborate on public policy problems related to covid, higher education, climate change, migration and others
 - 📫 You can reach me by email: online.kumar@gmail.com
 
